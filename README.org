@@ -1,0 +1,3 @@
+#+title: hugo-tailwind-rtd
+
+A hugo theme, cloned from the readthedocs theme.
